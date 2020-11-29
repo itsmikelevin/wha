@@ -1,4 +1,4 @@
-# WhatsApp Web clone
+# Wha
 
 A clone of WhatsApp Web using pure JavaScript + Firebase and Auth - HCode course.
 The project includes:
